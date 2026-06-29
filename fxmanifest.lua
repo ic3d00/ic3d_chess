@@ -5,8 +5,6 @@
 --  | | (__ ___) | (_| | (__ | | | |  __/\__ \__ \
 --  |_|\___|____/ \__,_|\___||_| |_|\___||___/___/
 --
---  ic3d_chess - Realistic 2-player chess (with vs Computer/NPC option)
---  Props: bzzz_chess | Bridge: ic3d_territories_v2
 
 fx_version 'cerulean'
 game 'gta5'
