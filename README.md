@@ -57,7 +57,7 @@ Tunables in `config.lua`: `Config.Camera` (overhead view), `Config.Clock`
 
 ## Installation
 
-1. Make sure the prop pack **`bzzz_chess`** is installed and started.
+1. Make sure the prop pack **`[bzzz_chess](https://bzzz.tebex.io/package/7496727)`** is installed and started.
 2. Drop `ic3d_chess` into your resources folder.
 3. Add to `server.cfg` (after `ox_lib` and `bzzz_chess`):
 
